@@ -13,12 +13,6 @@ This tools copies the two files where user session passwords are stored
 3. Decrypt each password using AES-CBC
 4. Save decrypted data to file
 
-## Key libraries needed
-
-1. py
-2. lz4 - for session data decompression
-3. csv - for saving as CSV
-4. json - For parsing Firefox data
 
 ## WARNING
 
